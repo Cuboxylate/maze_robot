@@ -1,3 +1,5 @@
+# Maze Solving Algorithm
+
 This is the code part of an Electrical Engineering university project.
 We built a robot to navigate a maze using infra-red LED eyes to
 detect walls.
